@@ -6,11 +6,11 @@ This is a static website which displays the output of HTML, CSS and JavaScript c
 
 Input:
 
-![](input.PNG)
+![](input.png)
 
 Output:
 
-![](output.PNG)
+![](output.png)
 
 Flowchart of Methodology:
 
