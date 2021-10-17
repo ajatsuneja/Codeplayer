@@ -14,7 +14,7 @@ Output:
 
 Flowchart of Methodology:
 
-![](flowchart1.png)
+![](flowchart.png)
 
 Live link:
 
